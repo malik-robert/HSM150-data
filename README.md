@@ -8,7 +8,7 @@
   - `input` ... the magnitude of the input torque for the given experiment
   - `number` ... the number of the experiment
 
-- e.g. `idf_neg_input_0.04.mat` contains the system response for the step of the input torque -0.01 N m at the operating point -0.03 N m. The reusultant input torque is -0.04 N m.
+- e.g. `idf_neg_input_0.04.mat` contains the system response for the step of the input torque `-0.01 N m` at the operating point `-0.03 N m`. The resultant input torque is `-0.04 N m`.
 
 ### Control
 - This folder contains data from the experiments of the system control.
